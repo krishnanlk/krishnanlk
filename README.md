@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**krishnanlk/krishnanlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Krishnan, a second-year student at PSG Institute of Technology and Applied Research (PSGiTech), currently pursuing a degree in Artificial Intelligence and Data Science (AI&DS).
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Second year undergraduate student
+- 🏫 PSGiTech, Coimbatore
+- 🤖 Passionate about AI, machine learning, and data science
+- 💡 Always eager to learn new technologies and work on interesting projects
+
+## Interests
+
+- Artificial Intelligence & Machine Learning
+- Data Science & Analytics
+- Programming & Problem Solving
