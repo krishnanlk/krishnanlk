@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Krishnan, a second-year student at PSG Institute of Technology and Applied Research (PSGiTech), currently pursuing a degree in Artificial Intelligence and Data Science (AI&DS).
+I'm Lakshana Krishnan, a second-year student at PSG Institute of Technology and Applied Research (PSGiTech), currently pursuing a degree in Artificial Intelligence and Data Science (AI&DS).
 
 ## About Me
 
